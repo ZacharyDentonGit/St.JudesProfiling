@@ -1,3 +1,2 @@
 # St.JudesProfiling
-This project used St. Judes mailing data on potential donors. This data is used to understand and create a model to classify if a person is likely
-to be a donnor or not. The model is tested against new data to measure performance. 
+In this project, the focus is on St. Jude’s mission of providing healthcare treatments, cures, and prevention for children, regardless of race, religion, or family income. The organization relies heavily on donations raised by ALSAC, their national fundraising entity. To maximize these contributions, a predictive model has been developed to classify individuals based on their likelihood of becoming donors. By profiling potential donors, the goal is to enhance St. Jude’s fundraising efforts and ultimately support their noble cause.
